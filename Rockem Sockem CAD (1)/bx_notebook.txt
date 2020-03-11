@@ -1,0 +1,2 @@
+"armPinSize" = 0.25
+"woodThx" = 0.2362
